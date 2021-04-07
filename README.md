@@ -1,14 +1,14 @@
 <div align="center">
-#  D&D Character-Creator-Express
+# D&D Character-Creator-Express
 </div>
 
-![image of app](public/assets/images/homepage-Img.png)
-<br>
-![image of app](public/assets/images/login-Img.png)
-<br>
+
 
 ## Visit the Webpage
  [D&DCCE](https://character-creator-express.herokuapp.com/login)
+ ![image of app](public/assets/images/homepage-Img.png)
+<br>
+
 
 ## Table of Contents
 
