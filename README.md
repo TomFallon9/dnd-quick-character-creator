@@ -9,7 +9,7 @@
 
 
 ## Visit the Webpage
- [D&DCCE](https://character-creator-express.herokuapp.com/login)
+ [D&DCharacterCreatorExpress](https://character-creator-express.herokuapp.com/login)
  <br>
  ![image of app](public/assets/images/homepage-Img.png)
 <br>
