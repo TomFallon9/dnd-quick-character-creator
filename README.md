@@ -1,11 +1,14 @@
-# ***<h1 align="center">Dungeons and Dragons Character Creator Express</h1>***
-
+<div align="center">
+#  D&D Character-Creator-Express
+</div>
 
 ![image of app](public/assets/images/homepage-Img.png)
+<br>
 ![image of app](public/assets/images/login-Img.png)
+<br>
 
 ## Visit the Webpage
- [Dungeons and Dragons Character Creator Express](https://character-creator-express.herokuapp.com/login)
+ [D&DCCE](https://character-creator-express.herokuapp.com/login)
 
 ## Table of Contents
 
@@ -28,10 +31,12 @@ Have you ever needed to make a Dungeons and Dragons character on the fly? Well l
 
 ![image of app](public/images/characterStats.png)
 Once you have selected the proper fields to create your character an easy to read and understand stat page is generated. Hovering over a certain stat/trait will generate a small text box describing the individual stat or trait. This makes for easy understanding to even the most beginner player. 
-
+<br>
 
 ![image of app](public/images/characters.png)
 Want to create more than one character? Not a problem! An easy to view page allows the user to see all the characters they have created. A simple click will send you right to that characters stats page. 
+<br>
+
 
 
 ## Technologies
