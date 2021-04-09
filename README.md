@@ -5,13 +5,14 @@
 
 
 </div>
+## Visit our App!
+[D&DCharacterCreatorExpress](https://character-creator-express.herokuapp.com/login)
 
 
  <br>
  ![image of app](public/assets/images/homepage-Img.png)
 <br>
-## Visit our App!
- [D&DCharacterCreatorExpress](https://character-creator-express.herokuapp.com/login)
+
 
 
 ## Table of Contents
