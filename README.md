@@ -5,14 +5,10 @@
 
 
 </div>
-## Visit our App!
-<br>
-[D&DCharacterCreatorExpress](https://character-creator-express.herokuapp.com/login)
 
 
- <br>
- ![image of app](public/assets/images/homepage-Img.png)
 <br>
+
 
 
 
@@ -67,6 +63,11 @@ Want to create more than one character? Not a problem! An easy to view page allo
 4. View your characters stats and traits.
 5. View previously made characters by clicking "My Characters" located in the navigation bar at the top of the page. 
 6. Dont leave your account running for everyone to see and make sure to logout. 
+
+## Visit our App!
+
+[D&DCharacterCreatorExpress](https://character-creator-express.herokuapp.com/login)
+<br>
 
 
 ## Contributors
