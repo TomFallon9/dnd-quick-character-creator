@@ -71,9 +71,9 @@ Want to create more than one character? Not a problem! An easy to view page allo
 
 
 ## Contributors
+* [Tom Fallon](https://github.com/TomFallon9)
 * [Tim Vigneau](https://github.com/tjvig94)
 * [Chad Courtney](https://github.com/chadcourtney9)
-* [Tom Fallon](https://github.com/TomFallon9)
 * [Patrick DeMarco](https://github.com/pfdemarco)
 * [Joe Lyons](https://github.com/Josephjlyons)
 
