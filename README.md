@@ -30,7 +30,8 @@
 Have you ever needed to make a Dungeons and Dragons character on the fly? Well look no further! Making a new character to play with can take quite a bit of time and who has time to waste when you just want to play. This app allows users to easily create new characters fast with generated stats that would meet all the criteria needed to start or jump into a campaign!
 
 ## Features 
-
+![image of app](public/images/login.png)
+Login required. Sign up with email and unique password.
 ![image of app](public/images/characterStats.png)
 Once you have selected the proper fields to create your character an easy to read and understand stat page is generated. Hovering over a certain stat/trait will generate a small text box describing the individual stat or trait. This makes for easy understanding to even the most beginner player. 
 <br>
